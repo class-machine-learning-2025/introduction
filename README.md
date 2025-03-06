@@ -44,6 +44,7 @@
 
 - assignments
 - exams (if necessary)
+- failing to attend the class 4 times or more results in Fail
 
 ### Assignments
 
