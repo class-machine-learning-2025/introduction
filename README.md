@@ -31,7 +31,7 @@
 ## Tools
 
 - Class management
-  - google classroom
+  - google classroom (class code: `st2v544`)
   - [github](https://github.com), [github desktop](https://desktop.github.com)
 
 - Programming
