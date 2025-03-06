@@ -47,12 +47,13 @@
 
 ### Assignments
 
-- Submission should be made to GitHub and Google Classroom 
+- Submission should be made to Google Classroom
+- Programming processes are committed at GitHub
 - Late submissions result in the zero score
 - Failure (no submission or zero score) of half or more assignments results in the fail of the class
 - Discussions among students are not allowed
 - Cheating will result in the immediate failure of the class
-- Deadline is set to be 11:59 pm in GitHub and Google Classroom, but the actual deadline is always 11:30 pm instead
+- Deadline is set to be 11:59 pm at Google Classroom, but the actual deadline is always 11:30 pm instead
 
 ### Exams
 
